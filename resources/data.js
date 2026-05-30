@@ -125,24 +125,10 @@ const portfolioData = {
                 "reasoning quality, and safety compliance, maintaining 95%+ quality accuracy."
         },
         {
-            role: "Junior Data Analyst",
-            company: "Landmine Soft",
-            location: "Hyderabad, India",
-            duration: "Feb 2023 – Mar 2024",
-            type: "Full Time",
-            metrics: [
-                { val: "5+", label: "Ad-hoc reports delivered" },
-                { val: "20%", label: "Reduction in query runtime" }
-            ],
-            techStack: ["Python", "SQL", "Power BI", "Excel", "Pandas", "NumPy", "Data Cleaning", "Data Visualization"],
-            description: "Owned the end-to-end data scrubbing and validation process " +
-                "for raw datasets, ensuring 100% data integrity before senior-level analysis."
-        },
-        {
             role: "Data Analyst",
             company: "Landmine Soft",
             location: "Hyderabad, India",
-            duration: "Apr 2024 – Present",
+            duration: "Feb 2024 – Present",
             type: "Full Time",
             metrics: [
                 { val: "10+", label: "Dashboards built" },
