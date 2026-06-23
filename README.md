@@ -1,14 +1,14 @@
 # 🌐 AI-Assisted Portfolio Website
 
-This repository contains my personal developer portfolio website, built to showcase my projects, skills, and professional experience. The website highlights my work in **AI, data analysis, cloud computing, and automation**.
+This repository was forked from Somenath Sau's personal developer portfolio website, built to showcase related projects, skills, and professional experience. The goal of this fork is to make a template for trainee's websites highlighting their work in **AI, cybersecurity, engineering, and/or automation**.
 
-🔗 **Live Website:** https://somenath.github.io/
+🔗 **Somenath's Live Website:** https://somenath.github.io/
 
 ---
 
 ## 🚀 Project Overview
 
-This portfolio website was developed using an **AI-assisted development approach (Vibe Coding)** to rapidly design and implement UI components. It serves as a centralized platform to present my technical projects, certifications, and contact information.
+Somenath's portfolio website was developed using an **AI-assisted development approach (Vibe Coding)** to rapidly design and implement UI components. It serves as a centralized platform to present technical projects, certifications, and contact information.
 
 The website also includes an **automated contact workflow** that collects visitor messages and processes them through Google Forms integration.
 
